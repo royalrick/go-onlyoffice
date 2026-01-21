@@ -1,0 +1,28 @@
+{
+  "changes": [
+    {
+      "created": "2026-01-21 15:52:27",
+      "user": {
+        "id": "user1",
+        "name": "张三",
+        "email": ""
+      }
+    },
+    {
+      "created": "2026-01-21 15:53:27",
+      "user": {
+        "id": "user1",
+        "name": "张三",
+        "email": ""
+      }
+    }
+  ],
+  "serverVersion": "7.3.0",
+  "created": "2026-01-21 15:52:27",
+  "key": "a21e01cf51cb73d1b72cdd4ca2f4e1893347b510",
+  "user": {
+    "id": "user1",
+    "name": "张三",
+    "email": ""
+  }
+}
